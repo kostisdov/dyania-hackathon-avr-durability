@@ -6,12 +6,12 @@ Two decks, ten slides each, 16:9.
 |---|---|
 | `slides.pdf` | Dark. For the room and a dark projector |
 | `slides-bright.pdf` | Bright. For print or a light projector |
-| `slides.html` | **Editable source** for the dark deck |
-| `slides-bright.html` | **Editable source** for the bright deck |
+
+The editable HTML sources are kept outside version control; ask the team for them.
 
 ## Editing
 
-Open either `.html` in any editor. Each slide is one `<section class="slide">`. The palette is the
+Open the corresponding `.html` source, which is distributed separately, in any editor. Each slide is one `<section class="slide">`. The palette is the
 token block at the top of the `<style>` element; changing the four values there restyles the whole
 deck.
 
