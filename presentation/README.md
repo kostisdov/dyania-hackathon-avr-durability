@@ -4,7 +4,7 @@ The deck presented on 17 September 2026. Ten slides, 16:9.
 
 | File | Use |
 |---|---|
-| `KAIROS_deck.pdf` | The deck. Ten pages, 960 x 540 points |
+| `slides.pdf` | The deck, the file the challenge template asks for. Ten pages, 960 x 540 points |
 | `KAIROS_deck.pptx` | The same deck as PowerPoint, one full-bleed slide per page |
 | `slides.md` | The slide-by-slide outline in plain text |
 
